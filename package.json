@@ -1,0 +1,19 @@
+{
+  "name": "cnsdynasty",
+  "version": "1.0.0",
+  "description": "Credit Repair",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvance248/cnsdynasty.git"
+  },
+  "author": "Caleb Vance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvance248/cnsdynasty/issues"
+  },
+  "homepage": "https://github.com/cvance248/cnsdynasty#readme"
+}
